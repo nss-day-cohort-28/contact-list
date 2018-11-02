@@ -7,22 +7,10 @@
       "id": 1
     },
     {
-      "name": "Fred Jones",
-      "address": "123 d st",
-      "phone": "555-555-5555",
-      "id": 2
-    },
-    {
-      "name": "g",
-      "address": "g",
+      "name": "g-man",
+      "address": "34 G avenue",
       "phone": "g",
       "id": 3
-    },
-    {
-      "name": "Fred Jones",
-      "address": "123 D St",
-      "phone": "555-555-5555",
-      "id": 4
     },
     {
       "name": "Bubba Sparxx",
@@ -31,28 +19,52 @@
       "id": 5
     },
     {
-      "name": "Bubba Sparxx",
-      "address": "345 t st",
-      "phone": "444-444-4444",
-      "id": 6
-    },
-    {
-      "name": "h",
-      "address": "h",
-      "phone": "h",
+      "name": "harry",
+      "address": "h st",
+      "phone": "h34-7689",
       "id": 7
     },
     {
-      "name": "d",
-      "address": "d",
-      "phone": "d",
+      "name": "denise",
+      "address": "D street",
+      "phone": "444-444-4444",
       "id": 8
     },
     {
-      "name": "f",
-      "address": "ff",
-      "phone": "f",
+      "name": "Cindy Lou Who",
+      "address": "25 Whoville Ave",
+      "phone": "555-666-7777",
       "id": 9
+    },
+    {
+      "name": "Jabba",
+      "address": "A cave",
+      "phone": "999-Hutt",
+      "id": 10
+    },
+    {
+      "name": "Coco Nutt",
+      "address": "Hawaii Lane",
+      "phone": "666-palm",
+      "id": 11
+    },
+    {
+      "name": "Harvey Rabbit",
+      "address": "123 Bunny Blvd",
+      "phone": "555-5555",
+      "id": 12
+    },
+    {
+      "name": "Monkey Boy",
+      "address": "The Jungle",
+      "phone": "444-5555",
+      "id": 13
+    },
+    {
+      "name": "Lava Girl",
+      "address": "45 Volcano Place",
+      "phone": "666-6666",
+      "id": 14
     }
   ]
 }

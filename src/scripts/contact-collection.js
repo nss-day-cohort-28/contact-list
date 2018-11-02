@@ -2,9 +2,9 @@
 
 export default {
   getContacts() {
-    fetch("http://localhost:8088/contacts/")
-      .then((contactDataJson) => contactDataJson.json()) //convert json to js
-      .then((contactData) => contactData)
+    return fetch("http://localhost:8088/contacts/")
+    .then((contactDataJson) => contactDataJson.json()) //convert json to js
+    .then((contactData) => contactData)
   },
 
   saveContact(contact) {

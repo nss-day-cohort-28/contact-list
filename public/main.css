@@ -1,3 +1,7 @@
+.form-message-container {
+  height: 20px;
+  padding-top: 20px;
+}
 
 .form-message {
   display: none;
@@ -5,5 +9,25 @@
   border-radius: 10px;
   font-family: Arial, Helvetica, sans-serif;
   width: 35%;
+  text-align: center;
+  padding: 5px 15px
+}
+
+.contact-list {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 50px
+}
+
+.contact-card {
+  flex-basis: 20%;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 2px solid gray;
+  border-radius: 7px;
+  box-shadow: 1px 1px 1px;
+}
+
+.contact-card h3 {
   text-align: center;
 }
