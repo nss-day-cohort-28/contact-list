@@ -5,12 +5,21 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Browserify Boilerplate</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="main.css">
 </head>
 <body>
-    <article class="output">
+  <h1>Contact List</h1>
 
-    </article>
+  <!-- form for name, phone number, and address. -->
+  <input type="text" id="input--name" placeholder="full name">
+  <input type="text" id="input--phone" placeholder="phone number">
+  <input type="text" id="input--address" placeholder="address">
+  <button id="contact-save">Save</button>
+  <div id="form-message" class="form-message"></div>
 
-    <script src="hellogoodbye.js"></script>
+  <section id="contact-list"></section>
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="bundle.js"></script>
 </body>
 </html>
