@@ -14,8 +14,6 @@ $("#contact-save").click(() => {
     phone: $("#input--phone").val()
   })
 
-  console.log(contact)
-
   contact.save()
   .then( (data) => {
     console.log("new contact saved", data)
